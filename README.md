@@ -64,8 +64,6 @@ I enjoy turning complex ideas into **simple, beautiful, and functional interface
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adejola-aa&theme=vision-friendly-dark&border=61dafb" />
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=adejola-aa&theme=onestar&no-frame=true&row=1&margin-w=30" />
+<br>
 
 </div>
