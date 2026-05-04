@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/coding_work.gif" alt="working" />
+  <img src="./assets/coding_work.gif" alt="working" width="600" />
 </h1>
 
 <br>
@@ -17,7 +17,7 @@
 
 ### Connect with me
 
-<img src="./assets/touch.gif"  alt="Down" width="30">
+<img src="./assets/touch.gif"  alt="Down" width="150">
 
 <br></br>
 
@@ -39,7 +39,7 @@ Currently I:
 
 - Build **smooth, high-performance mobile apps** with Flutter, with web as a secondary focus
 - Design **clean and scalable frontend structures** that are easy to maintain and grow
-- 🎨 UI/UX implementation and design-to-code conversion
+- Implement UI/UX designs into **responsive and maintainable** frontend systems
 - Keep improving by building **real, practical projects** that solve actual problems  
 
 
