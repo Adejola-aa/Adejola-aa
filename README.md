@@ -8,7 +8,7 @@
 
 # Hi there 👋, I'm Adejola Adegite
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=1064A7EE&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Mobile+%26+Frontend+Engineer;Architecting+Scalable+Flutter+Applications;React+Developer;Performance-Focused+Engineering;Crafting+Smooth+User+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=1064A7EE&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Mobile+%26+Frontend+Engineer;Architecting+Scalable+Flutter+Applications;React+Developer;Performance-Focused+Engineering;Crafting+Smooth+User+Experiences)](https://git.io/typing-svg)
 
 </div>
 
