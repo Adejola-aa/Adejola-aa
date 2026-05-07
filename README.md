@@ -19,7 +19,7 @@
 
 <img src="./assets/touch.gif"  alt="Down" width="150">
 
-<br></br>
+<br><br>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>](#)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="x"/>](https://x.com/AdegiteAdejola)
@@ -33,12 +33,12 @@
 
 ## 👨‍💻 About Me
 
-I am a performance-driven **Frontend Engineer** focused on building fast, scalable, and visually refined digital experiences across **web and mobile platforms**. I specialize in crafting high-quality interfaces using **React, Next.js, and Flutter**, while ensuring seamless integration with backend services and optimal application performance.
+I am a performance-driven **Frontend Engineer** focused on building fast, scalable, and visually refined digital experiences across **web and mobile platforms**. I specialize in building high-quality interfaces using **React/Next.js/Typescript, and Flutter/Dart**, while ensuring seamless integration with backend services and optimal application performance.
 
 Currently I:
 
-- Build **smooth, high-performance mobile apps** with Flutter, with web as a secondary focus
-- Design **clean and scalable frontend structures** that are easy to maintain and grow
+- Build **smooth, high-performance mobile apps** with Flutter
+- Design **clean and scalable frontend systems** that are easy to maintain and grow
 - Implement UI/UX designs into **responsive and maintainable** frontend systems
 - Keep improving by building **real, practical projects** that solve actual problems  
 
